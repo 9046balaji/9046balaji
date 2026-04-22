@@ -1,17 +1,25 @@
-# Hi, I'm Balaji 👋
+# Hi, I'm Konda Balaji Rao 👋
 
-I’m a developer focused on building practical, user-friendly software and improving a little every day.
+I am a Full-Stack Developer and AI/ML Engineer focused on building scalable, intelligent systems that solve real-world problems. I specialize in merging advanced machine learning models with robust backend architectures. 
 
-## Project highlights
-- Building and sharing projects that solve real problems
-- Turning ideas into clean, maintainable repositories
-- Documenting work so others can learn from and use it
+Currently pursuing my B.Tech in CSE-AIML, I am deeply invested in exploring the intersection of distributed systems, artificial intelligence, and healthcare tech.
 
-## Currently working on / learning
-- Strengthening core software engineering fundamentals
-- Improving backend and problem-solving skills
-- Writing clearer project READMEs and portfolio-ready repos
+### 🔭 What I'm currently working on & learning:
+- Optimizing Large Language Models (LLMs) for local execution using TurboQuant and Ollama.
+- Orchestrating multi-agent AI systems for complex decision-making.
+- Deepening my knowledge in Deep Learning architectures, specifically Transformers and Vision models.
 
-## Interests
-- Technology, product ideas, and continuous learning
-- Reading, exploring tools, and improving developer workflows
+### 🚀 Project Highlights:
+- **HeartGuard AI:** A production-grade medical chatbot utilizing LangGraph for cardiovascular consultations.
+- **Aura Bank:** A secure fintech ecosystem featuring AI-driven fraud detection.
+- **Enterprise PDF Tools:** An asynchronous document processing platform with heavy OCR and encryption capabilities.
+
+### 🛠️ Technical Arsenal
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **AI/ML:** TensorFlow, PyTorch, Scikit-Learn, LangGraph, RAG, OpenCV
+- **Backend & DB:** FastAPI, Node.js/Express, PostgreSQL, Redis, Celery
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD
+
+---
+📫 **Reach me at:** balajikonda9046@gmail.com  
+🔗 **Portfolio:** [Check it out here](https://portfolio-sable-tau-b7ysjwnjns.vercel.app/)
