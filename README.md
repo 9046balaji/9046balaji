@@ -61,7 +61,7 @@ Currently completing my final year of B.Tech (CSE-AIML) at Vignan's Foundation f
 `TensorFlow` `PyTorch` `Keras` `Scikit-learn` `OpenCV` `LangChain` `LangGraph` `Hugging Face` `NLP` `Computer Vision` `RAG`
 
 **Cloud & DevOps**
-`AWS (EC2, S3, Lambda, SageMaker)` `Docker` `CI/CD` `GitHub Actions`
+`AWS (EC2, S3, Lambda)` `Docker` `CI/CD` `GitHub Actions`
 
 **Databases & Backend**
 `PostgreSQL` `Redis` `Neo4j` `FastAPI` `Celery`
