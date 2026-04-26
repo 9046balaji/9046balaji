@@ -1,41 +1,95 @@
-# Hi there, I'm Konda Balaji Rao 👋
+# Konda Balaji Rao
 
-### AI/ML Engineer & Full-Stack Developer
-I am a builder focused on engineering scalable, intelligent systems that solve real-world problems. Currently in my final year of B.Tech (CSE-AIML) at Vignan's Foundation, I specialize in bridging the gap between advanced machine learning models (like LLMs and Multi-Agent Systems) and high-performance backend architectures.
+AI & Machine Learning Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sable-tau-b7ysjwnjns.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/konda-balaji-rao-0a93313a0)
-[![X](https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x)](https://x.com/balaji_balu007)
-[![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/KBalajiRao/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/KBalajiRao/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/9046balaji)
 
 ---
 
-### 🔭 What I'm currently working on & learning:
-- **Local AI Execution:** Experimenting with Large Language Models (LLMs) like Gemma, focusing on quantization methods (TurboQuant) and local orchestration via Ollama.
-- **Agentic Workflows:** Designing autonomous multi-agent systems using LangGraph for complex decision-making and data retrieval.
-- **System Architecture:** Building secure, asynchronous, event-driven backends using FastAPI, Redis, and Celery.
+## About Me
 
-### 🚀 Featured Work (My "Why" and "How")
+AI and Machine Learning Engineer with hands-on experience in building production-grade deep learning models, RAG-based AI systems, and computer vision pipelines. Proficient in Python, TensorFlow, PyTorch, and cloud platforms (AWS). Skilled in deploying ML solutions using Docker and CI/CD pipelines, with a strong foundation in data preprocessing, model optimization, and MLOps.
 
-* **[🫀 HeartGuard AI](https://github.com/9046balaji/Heart):** A production-grade medical AI agent. 
-  * *Why:* To provide reliable, safe cardiovascular consultations and triage. 
-  * *How:* Orchestrated multiple AI agents via LangGraph and grounded responses in verified medical literature using RAG, complete with PII scrubbing and hallucination grading.
-* **[🏦 Aura Bank System](https://github.com/9046balaji/bank-management-system):** An integrated fintech ecosystem.
-  * *Why:* To handle complex financial logic, concurrent transactions, and sensitive user data safely.
-  * *How:* Built a full-stack TypeScript application with AI-driven fraud detection, loan prediction models, and strict PostgreSQL ACID compliance.
-* **[📄 Enterprise PDF Tools](https://github.com/9046balaji/Pdf-Tools):** An asynchronous document processing platform.
-  * *Why:* To automate the extraction and securing of data from massive, unwieldy PDF files without crashing the main server.
-  * *How:* Implemented a background worker queue with Redis & Celery for heavy OCR (Tesseract) and AES encryption workflows.
+Currently in my final year of B.Tech (CSE-AIML) at Vignan's Foundation for Science, Technology and Research, specializing in bridging advanced machine learning models with high-performance backend architectures.
 
 ---
 
-### 🛠️ Technical Arsenal
+## Featured Projects
 
-**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### HeartGuard AI — Medical AI Chatbot
+A production-grade medical AI chatbot leveraging LangGraph-based multi-agent orchestration for autonomous query routing.
 
-**AI, ML & Data Science:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+- Accelerated medical query response time by 60% with 95%+ answer accuracy through a self-correcting RAG pipeline
+- Architected secure data handling with real-time PII redaction, JWT authentication, and AES encryption
+- Integrated persistent session memory using Redis and PostgreSQL for 500+ concurrent sessions
 
-**Backend & Architecture:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Tech Stack:** Python, LangGraph, Neo4j, Redis, PostgreSQL, RAG, NLP  
+[View on GitHub](https://github.com/9046balaji/Heart)
+
+### PDF Tools — Document Management Platform
+A scalable enterprise PDF platform supporting conversion, merge, split, compression, and OCR across 15+ file formats.
+
+- Reduced manual document handling time by 75% with asynchronous task queues (Celery) and real-time WebSocket updates
+- Secured document workflows with AES-256 encryption, watermarking, and digital signatures
+
+**Tech Stack:** Python, Celery, Redis, WebSockets, OCR, AES Encryption  
+[View on GitHub](https://github.com/9046balaji/Pdf-Tools)
+
+### Hospital Management System
+An automated appointment booking system with secure REST APIs.
+
+- Eliminated 100% of double-booking conflicts through custom scheduling algorithms
+- Reduced average patient wait time by 35% across 200+ daily appointments
+- Increased administrative efficiency by 50% with JWT-based role access controls
+
+**Tech Stack:** Node.js, PostgreSQL, JWT, Redis, REST APIs  
+[View on GitHub](https://github.com/9046balaji/Hospital-Management-System)
+
+### Heart Disease Prediction System
+A machine learning system for cardiovascular risk prediction.
+
+- Trained ensemble models (XGBoost, LightGBM) with Optuna hyperparameter optimization, achieving 92%+ ROC-AUC
+- Boosted minority-class recall by 25% using ADASYN oversampling and class-weight balancing
+- Deployed via FastAPI with SHAP-based feature explanations for clinical interpretability
+
+**Tech Stack:** Python, XGBoost, LightGBM, Optuna, SHAP, FastAPI
 
 ---
-📫 **Get in touch:** balajikonda9046@gmail.com
+
+## Technical Skills
+
+**Programming:** Python, SQL, C, HTML, CSS, TypeScript, JavaScript
+
+**AI/ML & Deep Learning:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, LangChain, LangGraph, Hugging Face, NLP, Computer Vision, RAG
+
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, SageMaker), Docker, CI/CD, Git, GitHub Actions
+
+**Databases & Tools:** PostgreSQL, Redis, Neo4j, FastAPI, Celery, Google Colab, VS Code
+
+---
+
+## Education
+
+**B.Tech in Computer Science and Engineering (AIML)**  
+Vignan's Foundation for Science, Technology and Research  
+CGPA: 7.50
+
+**Intermediate**  
+Sri Chaitanya Junior College | 2018 – 2020  
+CGPA: 9.54
+
+**SSC**  
+Z.P. High School | 2018  
+CGPA: 9.58
+
+---
+
+## Contact
+
+- Email: balajikonda9046@gmail.com
+- Phone: +91 83096 36226
+
+Feel free to connect or reach out for collaborations!
