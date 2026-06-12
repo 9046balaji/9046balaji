@@ -143,7 +143,7 @@ DevOps & AI Engineer who bridges the gap between intelligent systems and product
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9046balaji&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=9046balaji&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=9046balaji&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -155,7 +155,7 @@ DevOps & AI Engineer who bridges the gap between intelligent systems and product
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=9046balaji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=9046balaji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophies" />
 </p>
 
 ### 📈 Contribution Graph
