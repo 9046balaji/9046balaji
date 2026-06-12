@@ -13,11 +13,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a DevOps & AI Engineer passionate about bridging the gap between intelligent systems and reliable infrastructure. I specialize in building production-ready AI/ML pipelines with robust DevOps practices — from multi-agent RAG systems and computer vision models to scalable cloud architectures using Docker, Kubernetes, and AWS.
+DevOps & AI Engineer who bridges the gap between intelligent systems and production-grade infrastructure.
 
-My expertise spans the entire ML lifecycle: model development with PyTorch and TensorFlow, CI/CD pipelines with Jenkins and GitHub Actions, infrastructure automation with Terraform, and monitoring with Grafana. I focus on turning complex AI research into reliable, scalable solutions that run seamlessly in production environments.
+**🔧 What I Do:**
+- Build **production-ready AI/ML pipelines** — multi-agent RAG systems, computer vision models, and end-to-end ML workflows
+- Design **scalable cloud architectures** using Docker, Kubernetes, and AWS
+- Automate **CI/CD pipelines** with Jenkins, GitHub Actions, and Terraform
+- Monitor and observe systems with **Grafana & Prometheus** stacks
 
-🎓 Currently completing my final year of **B.Tech (CSE-AIML)** at **Vignan's Foundation for Science, Technology and Research**.
+**🧠 Core Expertise:**
+- **ML Lifecycle** — Model development (PyTorch, TensorFlow) → Training → Deployment → Monitoring
+- **Infrastructure as Code** — Terraform, Ansible, Docker Compose
+- **DevOps Practices** — GitOps, containerization, orchestration, observability
+
+🎓 Final year **B.Tech (CSE-AIML)** at **Vignan's Foundation for Science, Technology and Research**
 
 > [!TIP]
 > 📧 **balajikonda9046@gmail.com** &nbsp;|&nbsp; 📞 **+91 83096 36226**
@@ -134,19 +143,29 @@ My expertise spans the entire ML lifecycle: model development with PyTorch and T
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9046balaji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=9046balaji&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9046balaji&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9046balaji&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9046balaji&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9046balaji&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=9046balaji&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9046balaji&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api/visitcount?id=9046balaji&icon=0&color=0" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=9046balaji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
