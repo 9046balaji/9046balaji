@@ -77,7 +77,7 @@ Bridging the gap between state-of-the-art AI research and scalable, reliable, an
 ## Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,aws,docker,githubactions,fastapi,react,git,bash,js,ts,mysql,mongodb,html,css,figma,latex,markdown&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,aws,docker,githubactions,fastapi,react,git,bash,js,ts,mysql,mongodb,latex,markdown&theme=dark&perline=8" />
 </div>
 
 <br/>
@@ -167,7 +167,10 @@ Bridging the gap between state-of-the-art AI research and scalable, reliable, an
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/9046balaji/9046balaji/output/github-snake-dark.svg" alt="Contribution Snake" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9046balaji/9046balaji/output/github-snake-dark.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/9046balaji/9046balaji/output/github-snake.svg" width="95%" />
+  </picture>
 </div>
 
 ---
