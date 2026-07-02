@@ -195,10 +195,6 @@ Bridging the gap between state-of-the-art AI research and scalable, reliable, an
 
 ---
 
-> *"We can only see a short distance ahead, but we can see plenty there that needs to be done."*
->
-> — **Alan Turing**, Father of Modern Computing & Artificial Intelligence
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=130&section=footer" width="100%" />
 </div>
