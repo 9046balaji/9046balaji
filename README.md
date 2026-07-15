@@ -37,7 +37,7 @@
 <div align="center">
 
 AI & Machine Learning Engineer with hands-on experience designing, training, and deploying production-grade deep learning models, RAG systems, and computer vision pipelines.<br/>
-Passionate about MLOps and cloud infrastructure — packaging intelligent systems with FastAPI and Docker, and automating workflows with Celery and Redis.<br/>
+Passionate about MLOps and cloud infrastructure - packaging intelligent systems with FastAPI and Docker, and automating workflows with Celery and Redis.<br/>
 Bridging the gap between state-of-the-art AI research and scalable, reliable, and observable production deployments.
 
 </div>
