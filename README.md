@@ -1,132 +1,146 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=240&section=header&text=Konda%20Balaji%20Rao&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=60&descSize=22&animation=fadeIn&stroke=0e75b6&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=220&section=header&text=Konda%20Balaji%20Rao&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58" width="100%" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;DevOps+%26+Cloud+Infrastructure+Specialist;Building+HeartGuard+AI;Deploying+Scalable+Deep+Learning+Pipelines" alt="Typing SVG" />
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://portfolio-sable-tau-b7ysjwnjns.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/konda-balaji-rao">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://leetcode.com/u/KBalajiRao/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://github.com/9046balaji">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:balajikonda9046@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=9046balaji&style=flat-square&color=0e75b6&label=Views" />
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-AI & Machine Learning Engineer with hands-on experience designing, training, and deploying production-grade deep learning models, RAG systems, and computer vision pipelines.<br/>
-Passionate about MLOps and cloud infrastructure - packaging intelligent systems with FastAPI and Docker, and automating workflows with Celery and Redis.<br/>
-Bridging the gap between state-of-the-art AI research and scalable, reliable, and observable production deployments.
+AI & Machine Learning Engineer focused on building practical, production-ready systems across machine learning, generative AI, and backend automation.
 
-</div>
+I work on:
+- RAG and AI assistant workflows
+- Computer vision and deep learning pipelines
+- FastAPI-based backend services
+- Dockerized, cloud-ready deployments
+- Workflow automation with Celery and Redis
 
-<br/>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="180"><b>⚡ ~60%</b><br/>Medical Query RT Reduction</td>
-    <td align="center" width="180"><b>🎯 95%+</b><br/>Chatbot Answer Accuracy</td>
-    <td align="center" width="180"><b>📋 ~75%</b><br/>Manual Doc Handling Reduction</td>
-    <td align="center" width="180"><b>🛡️ 100%</b><br/>Double-Booking Eliminated</td>
-    <td align="center" width="180"><b>❤️ 92%+</b><br/>Heart Prediction ROC-AUC</td>
-  </tr>
-</table>
-
-</div>
+I care about turning strong models into reliable products that are maintainable, observable, and easy to scale.
 
 ---
 
-## Featured Work
+## Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="180"><b>~60%</b><br/>Medical Query Response Time Reduction</td>
+      <td align="center" width="180"><b>95%+</b><br/>Chatbot Answer Accuracy</td>
+      <td align="center" width="180"><b>~75%</b><br/>Manual Document Handling Reduction</td>
+      <td align="center" width="180"><b>100%</b><br/>Double-Booking Eliminated</td>
+      <td align="center" width="180"><b>92%+</b><br/>Heart Prediction ROC-AUC</td>
+    </tr>
+  </table>
+</div>
+
+> These figures reflect project outcomes and evaluation results from deployed or prototype systems.
+
+---
+
+## Selected Projects
 
 <div align="center">
   <a href="https://github.com/9046balaji/Heart">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=9046balaji&repo=Heart&theme=dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6" />
   </a>
-  &nbsp;
   <a href="https://github.com/9046balaji/Pdf-Tools">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=9046balaji&repo=Pdf-Tools&theme=dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6" />
   </a>
 </div>
 
+### Heart
+A machine learning project for heart disease prediction and risk analysis.  
+**Focus:** model evaluation, prediction performance, and healthcare-oriented ML use cases.
+
+### Pdf-Tools
+A document processing toolkit for automating PDF-related workflows.  
+**Focus:** extraction, document handling, and workflow efficiency.
+
 ---
 
-## Tools & Technologies
+## Core Skills
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### Backend / MLOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+
+---
+
+## What I Bring
+
+- Production-oriented ML engineering
+- RAG and AI system design
+- Reliable API development
+- Cloud and container-based deployment
+- Automation and orchestration
+- Clear technical communication and documentation
+
+---
+
+## Collaboration
+
+I’m open to opportunities involving:
+- AI / ML engineering
+- MLOps and deployment
+- Backend development for AI products
+- Automation and data workflow systems
+- Applied computer vision and NLP
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,aws,docker,githubactions,fastapi,react,git,bash,js,ts,mysql,mongodb,latex,markdown&theme=dark&perline=8" />
+  <img src="https://streak-stats.demolab.com?user=9046balaji&theme=dark&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
 <br/>
 
-<details>
-<summary><b>Full Stack Details & Tech Stack Breakdown</b></summary>
-
-<br/>
-
-**Programming & Scripting**
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/BASH-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
-
-**AI/ML & Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/KERAS-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-4A154B?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-00A699?style=flat-square)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Databases, Frameworks & Core Tools**
-
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/CELERY-37814A?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/NEO4J-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-
-</details>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=120&section=footer" width="100%" />
+</div>
 
 ---
 
