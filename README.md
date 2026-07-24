@@ -154,13 +154,6 @@ I’m open to opportunities involving:
 <br/>
 
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9046balaji&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity&theme=react-dark&v=1" width="95%" />
-</div>
-
-
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/9046balaji/9046balaji/output/github-snake-dark.svg">
