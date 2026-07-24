@@ -132,18 +132,6 @@ I’m open to opportunities involving:
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=9046balaji&theme=dark&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&sideLabels=c9d1d9&dates=c9d1d9" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=120&section=footer" width="100%" />
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
