@@ -191,8 +191,3 @@ I’m open to opportunities involving:
 ![Cross-Functional Collaboration](https://img.shields.io/badge/CROSS--FUNCTIONAL_COLLABORATION-2E7D32?style=flat-square)
 ![Documentation](https://img.shields.io/badge/DOCUMENTATION-37474F?style=flat-square)
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=130&section=footer" width="100%" />
-</div>
