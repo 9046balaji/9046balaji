@@ -58,13 +58,20 @@ I focus on combining core DevOps engineering with modern AI tools to eliminate m
 ## Selected Projects
 
 <div align="center">
+  <a href="https://github.com/9046balaji/Docker">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=9046balaji&repo=Docker&theme=dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6" />
+  </a>
   <a href="https://github.com/9046balaji/Heart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=9046balaji&repo=Heart&theme=dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=9046balaji&repo=Heart&theme=dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6" />
   </a>
   <a href="https://github.com/9046balaji/Pdf-Tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=9046balaji&repo=Pdf-Tools&theme=dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=9046balaji&repo=Pdf-Tools&theme=dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6" />
   </a>
 </div>
+
+### Docker
+Containerization and infrastructure setup repository for containerized workflows and deployment practices.  
+**Focus:** Docker containers, multi-stage builds, and deployment configuration.
 
 ### Heart
 A machine learning project for heart disease prediction and risk analysis.  
@@ -83,13 +90,21 @@ A document processing toolkit for automating PDF-related workflows.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0e75b6?style=flat-square&logo=cisco&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+### AI Productivity & Acceleration Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
 ### Programming & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
