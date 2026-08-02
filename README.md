@@ -137,16 +137,7 @@ I’m open to opportunities involving:
 ## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=9046balaji&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6&count_private=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=9046balaji&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=9046balaji&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6&count_private=true" />
 </div>
 
 <div align="center">
