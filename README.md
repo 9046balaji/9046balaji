@@ -171,6 +171,61 @@ Intelligent document extraction, processing automation, and pipeline integration
 
 ---
 
+## 📜 Certifications & Verified Credentials
+
+<details open>
+<summary><strong>🎓 Click any thumbnail to expand full certificate</strong></summary>
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="./certificates/aws_cloud_practitioner.jpg">
+          <img src="./certificates/aws_cloud_practitioner.jpg" width="220" alt="AWS Certified Cloud Practitioner" /><br/><br/>
+          <b>AWS Certified Cloud Practitioner</b>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="./certificates/generative_ai.jpg">
+          <img src="./certificates/generative_ai.jpg" width="220" alt="Generative AI Certification" /><br/><br/>
+          <b>Generative AI Specialization</b>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="./certificates/cloud_computing.jpg">
+          <img src="./certificates/cloud_computing.jpg" width="220" alt="Cloud Computing Architecture" /><br/><br/>
+          <b>Cloud Computing & Architecture</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <a href="./certificates/pwc_launchpad.jpg">
+          <img src="./certificates/pwc_launchpad.jpg" width="220" alt="PwC Launchpad Certification" /><br/><br/>
+          <b>PwC Launchpad Certification</b>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="./certificates/hackathon_achievement.jpg">
+          <img src="./certificates/hackathon_achievement.jpg" width="220" alt="Hackathon Excellence Award" /><br/><br/>
+          <b>Hackathon Excellence Award</b>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="./certificates/pet_exam.jpg">
+          <img src="./certificates/pet_exam.jpg" width="220" alt="PET Technical Certification" /><br/><br/>
+          <b>PET Technical Certification</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+</details>
+
+---
+
 ## 🧠 Core Competencies & Dual Discipline Matrix
 
 | ☁️ DevOps & Cloud Infrastructure | 🤖 Gen AI & AI Systems Engineering |
