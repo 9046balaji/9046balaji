@@ -22,26 +22,12 @@
 
 <br/>
 
-```yaml
-# 🤖 SYSTEM PROMPT: DEV-AI-ENGINEER-INTERFACE v2.5
-agent:
-  name: "Konda Balaji Rao"
-  role: "DevOps Architect & AI Systems Engineer"
-  status: "🟢 OPERATIONAL // AVAILABLE FOR HIGH-IMPACT ROLES"
-  location: "India"
-
-core_specifications:
-  devops_architecture:
-    - "Infrastructure as Code (Terraform, Ansible)"
-    - "Container Orchestration (Docker, Kubernetes, AWS)"
-    - "Zero-Downtime CI/CD Pipelines (GitHub Actions, Jenkins)"
-    - "Full-Stack Observability (Prometheus, Grafana, Nginx)"
-  ai_engineering:
-    - "LLM Orchestration, RAG Pipelines & Autonomous AI Agents"
-    - "Gen AI Tooling & MLOps Pipeline Deployment"
-    - "High-Throughput FastAPI Microservices & Redis/Celery Queue"
-    - "Intelligent Log Diagnostics & AI-Accelerated Operations"
-```
+> [!NOTE]
+> ### 🤖 DEV-AI ENGINEER SPECIFICATIONS
+> **Developer:** Konda Balaji Rao &nbsp;|&nbsp; **Role:** DevOps Architect & AI Systems Engineer &nbsp;|&nbsp; **Status:** 🟢 Operational // Available for Impact Roles
+> 
+> - **☁️ Cloud & DevOps Infrastructure:** Infrastructure as Code (Terraform, Ansible) • Container Orchestration (Docker, Kubernetes, AWS) • Zero-Downtime CI/CD Pipelines • System Observability (Prometheus, Grafana, Nginx)
+> - **🧠 Gen AI & LLMOps Engineering:** LLM Orchestration, RAG Pipelines & Autonomous AI Agents • Gen AI Tooling & MLOps Deployment • High-Throughput FastAPI Microservices • Intelligent Log Diagnostics
 
 > [!IMPORTANT]
 > **DevOps Rigor × Gen AI Innovation**: I bridge resilient cloud infrastructure with next-generation AI workflows — automating CI/CD delivery while deploying production LLMs, autonomous AI agents, and intelligent telemetry.
@@ -258,24 +244,29 @@ Intelligent document extraction, processing automation, and pipeline integration
 
 ---
 
-## 🤝 Let's Connect & Collaborate
-
-```bash
-# 🚀 Initiate terminal handshake (Email: balajikonda9046@gmail.com)
-curl -X POST https://api.github.com/users/9046balaji \
-  -H "Content-Type: application/json" \
-  -d '{
-    "developer": "Konda Balaji Rao",
-    "role": "DevOps Architect / AI Engineer",
-    "status": "Ready to architect scalable cloud & AI infrastructure"
-  }'
-```
-
 <div align="center">
 
-![DevOps Architecture](https://img.shields.io/badge/DEVOPS_ARCHITECT-0e75b6?style=for-the-badge)
-![Gen AI Tooling](https://img.shields.io/badge/GEN_AI_ENGINEERING-6366f1?style=for-the-badge)
-![LLMOps & MLOps](https://img.shields.io/badge/LLMOPS_%26_MLOPS-10b981?style=for-the-badge)
-![Cloud CI/CD](https://img.shields.io/badge/CLOUD_CI%2FCD-0e75b6?style=for-the-badge)
+## 🤝 Let's Connect & Collaborate
+
+I am open to high-impact opportunities in **DevOps Cloud Architecture**, **Gen AI Systems Engineering**, and **LLMOps Automation**.
+
+<br/>
+
+<a href="mailto:balajikonda9046@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-balajikonda9046%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/konda-balaji-rao">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://portfolio-sable-tau-b7ysjwnjns.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![DevOps Architecture](https://img.shields.io/badge/DEVOPS_ARCHITECT-0e75b6?style=flat-square)
+![Gen AI Tooling](https://img.shields.io/badge/GEN_AI_ENGINEERING-6366f1?style=flat-square)
+![LLMOps & MLOps](https://img.shields.io/badge/LLMOPS_%26_MLOPS-10b981?style=flat-square)
+![Cloud CI/CD](https://img.shields.io/badge/CLOUD_CI%2FCD-0e75b6?style=flat-square)
 
 </div>
