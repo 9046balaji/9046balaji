@@ -1,61 +1,149 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=220&section=header&text=Konda%20Balaji%20Rao&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20AI-Powered%20Automation&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6366f1,100:10b981&height=220&section=header&text=Konda%20Balaji%20Rao&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=DevOps%20Architect%20%7C%20AI%20Systems%20%26%20LLMOps%20Engineer&descAlignY=58" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://portfolio-sable-tau-b7ysjwnjns.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/konda-balaji-rao">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/KBalajiRao/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://github.com/9046balaji">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:balajikonda9046@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
+<br/>
+
+```yaml
+# 🤖 SYSTEM PROMPT: DEV-AI-ENGINEER-INTERFACE v2.5
+agent:
+  name: "Konda Balaji Rao"
+  role: "DevOps Architect & AI Systems Engineer"
+  status: "🟢 OPERATIONAL // AVAILABLE FOR HIGH-IMPACT ROLES"
+  location: "India"
+
+core_specifications:
+  devops_architecture:
+    - "Infrastructure as Code (Terraform, Ansible)"
+    - "Container Orchestration (Docker, Kubernetes, AWS)"
+    - "Zero-Downtime CI/CD Pipelines (GitHub Actions, Jenkins)"
+    - "Full-Stack Observability (Prometheus, Grafana, Nginx)"
+  ai_engineering:
+    - "LLM Orchestration, RAG Pipelines & Autonomous AI Agents"
+    - "Gen AI Tooling & MLOps Pipeline Deployment"
+    - "High-Throughput FastAPI Microservices & Redis/Celery Queue"
+    - "Intelligent Log Diagnostics & AI-Accelerated Operations"
+```
+
+> [!IMPORTANT]
+> **DevOps Rigor × Gen AI Innovation**: I bridge resilient cloud infrastructure with next-generation AI workflows — automating CI/CD delivery while deploying production LLMs, autonomous AI agents, and intelligent telemetry.
+
+> [!TIP]
+> **Engineering Philosophy**: *Code for core logic, DevOps for 99.9% system availability, and Gen AI to multiply operational velocity.*
+
 ---
 
-## About Me
+## ⚡ Agentic DevOps & AI Architecture Flow
 
-DevOps Engineer focused on building scalable cloud infrastructure, automated CI/CD pipelines, container orchestration, and observable deployment workflows — leveraging AI to accelerate DevOps velocity, automate complex operations, and streamline delivery.
-
-I work on:
-- Automated CI/CD pipelines & zero-downtime deployment workflows
-- Containerization, Docker orchestration, and cloud infrastructure (AWS)
-- AI-assisted DevOps automation, intelligent workflow optimization, and log analysis
-- Infrastructure monitoring, metrics, and system observability
-- FastAPI microservices & background task automation (Celery, Redis)
-
-I focus on combining core DevOps engineering with modern AI tools to eliminate manual bottlenecks, speed up delivery cycles, and maintain reliable production systems.
+```mermaid
+flowchart LR
+    A[💻 Dev Code & AI Prompts] --> B[⚙️ GitHub Actions CI/CD]
+    B --> C[🐳 Docker Containerization]
+    C --> D[🤖 AI Agent Log & Security Audit]
+    D --> E[☁️ AWS & Kubernetes Cluster]
+    E --> F[📊 Prometheus & Grafana Observability]
+    F -. Self-Healing AI Telemetry .-> D
+```
 
 ---
 
-## Highlights
+## 📊 System Metrics & Performance Telemetry
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="180"><b>99.9%</b><br/>Pipeline Reliability</td>
-      <td align="center" width="180"><b>~60%</b><br/>Deployment Time Reduction</td>
-      <td align="center" width="180"><b>~75%</b><br/>Manual Workflow Automation</td>
-      <td align="center" width="180"><b>AI-Accelerated</b><br/>DevOps Operations</td>
-      <td align="center" width="180"><b>95%+</b><br/>System Observability</td>
+      <td align="center" width="180"><b>⚡ 99.9%</b><br/><code>CI/CD Pipeline Uptime</code></td>
+      <td align="center" width="180"><b>🚀 ~60%</b><br/><code>Deployment Latency Cut</code></td>
+      <td align="center" width="180"><b>🤖 ~75%</b><br/><code>AI Ops Automation Rate</code></td>
+      <td align="center" width="180"><b>🧠 LLMOps / RAG</b><br/><code>Production Inference</code></td>
+      <td align="center" width="180"><b>🔍 95%+</b><br/><code>System Observability</code></td>
     </tr>
   </table>
 </div>
 
-> These figures reflect project outcomes and evaluation results from deployed or prototype systems.
+---
+
+## 🛠️ Technology Stack & AI Capabilities
+
+<details open>
+<summary><strong>☁️ DevOps, Cloud & Infrastructure Engineering (Primary Foundation)</strong></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>🤖 Gen AI Engineering, LLMOps & Machine Learning</strong></summary>
+<br>
+
+![OpenAI / ChatGPT](https://img.shields.io/badge/ChatGPT%20%2F%20OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>⚡ Backend, High-Concurrency & Microservices</strong></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+</details>
+
+<details open>
+<summary><strong>🛠️ AI Productivity & Developer Accelerators</strong></summary>
+<br>
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor / AI IDEs](https://img.shields.io/badge/Cursor%20%2F%20AI%20IDEs-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-0e75b6?style=for-the-badge)
+
+</details>
 
 ---
 
-## Selected Projects
+## 🚀 Featured AI & DevOps Systems
 
 <div align="center">
   <a href="https://github.com/9046balaji/Docker">
@@ -69,112 +157,32 @@ I focus on combining core DevOps engineering with modern AI tools to eliminate m
   </a>
 </div>
 
-### Docker
-Containerization and infrastructure setup repository for containerized workflows and deployment practices.  
-**Focus:** Docker containers, multi-stage builds, and deployment configuration.
+### 🐳 [Docker Infrastructure Repository](https://github.com/9046balaji/Docker)
+Production-ready containerization architecture, multi-stage Docker builds, microservice orchestration, and deployment blueprints.  
+`Focus`: Container Optimization • Cloud Deployment • Multi-stage Builds
 
-### Heart
-A machine learning project for heart disease prediction and risk analysis.  
-**Focus:** model evaluation, prediction performance, and healthcare-oriented ML use cases.
+### 🫀 [Heart Disease Prediction Engine](https://github.com/9046balaji/Heart)
+End-to-end machine learning pipeline for cardiovascular risk assessment, automated model evaluation, and predictive analytics.  
+`Focus`: ML Model Engineering • Clinical Data Pipelines • Diagnostic Inference
 
-### Pdf-Tools
-A document processing toolkit for automating PDF-related workflows.  
-**Focus:** extraction, document handling, and workflow efficiency.
-
----
-
-## Core Skills
-
-<details open>
-<summary><strong>☁️ DevOps & Cloud Infrastructure (Primary)</strong></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0e75b6?style=flat-square&logo=cisco&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-</details>
-
-<details open>
-<summary><strong>🤖 AI Productivity & Acceleration Tools</strong></summary>
-<br>
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-
-</details>
-
-<details open>
-<summary><strong>💻 Programming & Backend</strong></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-</details>
-
-<details open>
-<summary><strong>🧠 AI / ML & Data (Secondary)</strong></summary>
-<br>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-</details>
-
-<details open>
-<summary><strong>🗄️ Databases</strong></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</details>
+### 📄 [PDF Workflow & Document AI Toolkit](https://github.com/9046balaji/Pdf-Tools)
+Intelligent document extraction, processing automation, and pipeline integration for high-volume PDF workflows.  
+`Focus`: Document Intelligence • Automated Workflows • Python Automation
 
 ---
 
-## What I Bring
+## 🧠 Core Competencies & Dual Discipline Matrix
 
-- End-to-end DevOps engineering & automated CI/CD deployment
-- AI-enhanced DevOps workflows to accelerate build, test, and release cycles
-- Cloud infrastructure management (AWS) & Docker containerization
-- Infrastructure monitoring, logging, and system observability
-- Reliable API microservices & task automation
-- Production MLOps deployment & clear system architecture
-
----
-
-## Collaboration
-
-I’m open to opportunities involving:
-- DevOps engineering & AI-accelerated CI/CD automation
-- Cloud infrastructure & container orchestration
-- AI-assisted operations, log analysis, and workflow optimization
-- MLOps and deployment pipelines
-- Backend microservices & infrastructure architecture
+| ☁️ DevOps & Cloud Infrastructure | 🤖 Gen AI & AI Systems Engineering |
+|---|---|
+| ⚡ Automated Zero-Downtime CI/CD Pipelines | 🤖 Gen AI Tool Integration & Autonomous Agent Workflows |
+| 🐳 Docker Containerization & Kubernetes Clusters | 🧠 LLMOps, RAG Architecture & Model Inference |
+| ☁️ AWS Cloud Infrastructure & Terraform/Ansible | 🔍 Intelligent Log Analysis & Self-Healing Telemetry |
+| 📊 Prometheus & Grafana Monitoring & Observability | ⚡ High-Concurrency FastAPI Microservices + Celery/Redis |
 
 ---
 
-## GitHub Stats
+## 📈 System Metrics & GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=9046balaji&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6&count_private=true" />
@@ -195,13 +203,24 @@ I’m open to opportunities involving:
 
 ---
 
-## Collaboration / Delivery
+## 🤝 Let's Connect & Collaborate
 
-![DevOps Strategy](https://img.shields.io/badge/DEVOPS_STRATEGY-0e75b6?style=flat-square)
-![CI/CD Automation](https://img.shields.io/badge/CI%2FCD_AUTOMATION-0e75b6?style=flat-square)
-![AI-Powered DevOps](https://img.shields.io/badge/AI--POWERED_DEVOPS-2E7D32?style=flat-square)
-![Architecture Design](https://img.shields.io/badge/ARCHITECTURE_DESIGN-0e75b6?style=flat-square)
-![System Observability](https://img.shields.io/badge/SYSTEM_OBSERVABILITY-0e75b6?style=flat-square)
-![Documentation](https://img.shields.io/badge/DOCUMENTATION-37474F?style=flat-square)
+```bash
+# 🚀 Initiate terminal handshake (Email: balajikonda9046@gmail.com)
+curl -X POST https://api.github.com/users/9046balaji \
+  -H "Content-Type: application/json" \
+  -d '{
+    "developer": "Konda Balaji Rao",
+    "role": "DevOps Architect / AI Engineer",
+    "status": "Ready to architect scalable cloud & AI infrastructure"
+  }'
+```
 
+<div align="center">
 
+![DevOps Architecture](https://img.shields.io/badge/DEVOPS_ARCHITECT-0e75b6?style=for-the-badge)
+![Gen AI Tooling](https://img.shields.io/badge/GEN_AI_ENGINEERING-6366f1?style=for-the-badge)
+![LLMOps & MLOps](https://img.shields.io/badge/LLMOPS_%26_MLOPS-10b981?style=for-the-badge)
+![Cloud CI/CD](https://img.shields.io/badge/CLOUD_CI%2FCD-0e75b6?style=for-the-badge)
+
+</div>
