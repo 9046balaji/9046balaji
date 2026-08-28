@@ -69,18 +69,6 @@ Engineering student with a strong focus on **DevOps** and **AI Applications**. I
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/9046balaji/Docker">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=9046balaji&repo=Docker&theme=dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6" />
-  </a>
-  <a href="https://github.com/9046balaji/Heart">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=9046balaji&repo=Heart&theme=dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6" />
-  </a>
-  <a href="https://github.com/9046balaji/Pdf-Tools">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=9046balaji&repo=Pdf-Tools&theme=dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&icon_color=0e75b6" />
-  </a>
-</div>
-
 - **🐳 [Docker](https://github.com/9046balaji/Docker):** Containerization workflows, multi-stage builds, and deployment setups.
 - **🫀 [Heart](https://github.com/9046balaji/Heart):** Machine learning pipeline for heart disease prediction and data evaluation.
 - **📄 [Pdf-Tools](https://github.com/9046balaji/Pdf-Tools):** Python automation toolkit for extracting and handling PDF workflows.
